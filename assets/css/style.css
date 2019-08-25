@@ -217,7 +217,6 @@ input[type=submit] {
 }
 
 
-
 @media only screen and (max-width: 980px) {
   .container {
     max-width: 800px;
@@ -225,6 +224,14 @@ input[type=submit] {
 
   .main-section {
     width: 66%;
+  }
+
+  .work {
+    width: 210px;
+  }
+
+  .work h3 {
+    font-size: 18px;
   }
 }
 
@@ -237,7 +244,12 @@ input[type=submit] {
   .main-section {
     width: 100%;
   }
+
+  .work {
+    width: 298px;
+  }
 }
+
 
 @media only screen and (max-width: 640px) {
   body {
@@ -275,6 +287,11 @@ input[type=submit] {
     float: none;
     width: 90%;
     margin: 0 auto;
+  }
+
+  .work {
+    width: 515px;
+    float: none;
   }
 }
 
