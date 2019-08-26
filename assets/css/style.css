@@ -4,7 +4,6 @@ body {
   line-height: 34px;
   color: #777777;
   background: url("../images/concrete_seamless.png");
-  animation:  bounceIn 2s ease-in-out 3s 2;
 }
 
 * {
@@ -215,10 +214,6 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
-}
-
-.hello {
-  animation: bounceIn 2s ease-in-out 3s 2;
 }
 
 
