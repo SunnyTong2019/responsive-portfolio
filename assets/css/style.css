@@ -219,7 +219,7 @@ input[type=submit] {
 
 @media only screen and (max-width: 980px) {
   .container {
-    max-width: 800px;
+    max-width: 860px;
   }
 
   .main-section {
@@ -227,7 +227,7 @@ input[type=submit] {
   }
 
   .work {
-    width: 210px;
+    width: 46%;
   }
 
   .work h3 {
@@ -244,10 +244,6 @@ input[type=submit] {
   .main-section {
     width: 100%;
   }
-
-  .work {
-    width: 298px;
-  }
 }
 
 
@@ -261,7 +257,7 @@ input[type=submit] {
   }
   
   #logo {
-    width: 640px;
+    width: 100%;
   }
 
   nav {
@@ -290,7 +286,7 @@ input[type=submit] {
   }
 
   .work {
-    width: 515px;
+    width: 100%;
     float: none;
   }
 }
